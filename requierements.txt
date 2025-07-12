@@ -1,6 +1,7 @@
 streamlit
-pandas 
-numpy 
+pandas
+numpy
+plotly
 ccxt
-datetime 
-plotly.graph_objects
+bt
+
